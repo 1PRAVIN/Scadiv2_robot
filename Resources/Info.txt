@@ -1,0 +1,2 @@
+login_user_name = 63516
+login_user_password = Ecom@123
